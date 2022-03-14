@@ -1,0 +1,1 @@
+FROM repohub.cheersin.com/cheerscommon/nodejs:12.18.0-alpine-1.0.0
